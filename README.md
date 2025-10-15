@@ -59,7 +59,7 @@ Répétez l’opération pour `nodered`.
 Lancez le script d’installation directement depuis GitHub avec la commande suivante :
 
 ```bash
-curl -sSL -o install.sh https://raw.githubusercontent.com/ibroche/URLACOMPLETER
+curl -sSL -o install.sh https://raw.githubusercontent.com/ibroche/AzureVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
