@@ -2,8 +2,6 @@
 
 Ce guide décrit toutes les étapes nécessaires, depuis la création d’une machine virtuelle sur Azure jusqu’au déploiement d’un environnement complet comprenant Docker (avec Traefik, MariaDB, phpMyAdmin, NodeRed, MQTT).
 
-Ptite [vidéo](https://youtu.be/HKy8vaBAl9k) pour résumer les étapes : https://youtu.be/HKy8vaBAl9k (ne pas regarder svp)
-
 Mise en Place de l'Environnement
 ---
 
